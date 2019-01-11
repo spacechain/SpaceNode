@@ -1,0 +1,165 @@
+src/libsecp256k1_la-secp256k1.lo: src/secp256k1.c \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h include/secp256k1.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h src/util.h \
+ src/libsecp256k1-config.h /usr/arm-linux-gnueabihf/include/stdlib.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdlib-bsearch.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdlib-float.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdlib.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/bits/wchar.h \
+ /usr/arm-linux-gnueabihf/include/stdio.h \
+ /usr/arm-linux-gnueabihf/include/bits/types.h \
+ /usr/arm-linux-gnueabihf/include/bits/typesizes.h \
+ /usr/arm-linux-gnueabihf/include/libio.h \
+ /usr/arm-linux-gnueabihf/include/_G_config.h \
+ /usr/arm-linux-gnueabihf/include/wchar.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdarg.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdio_lim.h \
+ /usr/arm-linux-gnueabihf/include/bits/sys_errlist.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdio.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdio2.h src/num_impl.h src/num.h \
+ src/field_impl.h src/field_10x26_impl.h src/field.h src/field_10x26.h \
+ src/scalar_impl.h src/group.h src/scalar.h src/scalar_8x32.h \
+ src/scalar_8x32_impl.h src/group_impl.h src/ecmult_impl.h \
+ /usr/arm-linux-gnueabihf/include/string.h \
+ /usr/arm-linux-gnueabihf/include/bits/string.h \
+ /usr/arm-linux-gnueabihf/include/bits/string2.h \
+ /usr/arm-linux-gnueabihf/include/bits/string3.h src/ecmult.h \
+ src/ecmult_const_impl.h src/ecmult_const.h src/ecmult_gen_impl.h \
+ src/ecmult_gen.h src/hash_impl.h src/hash.h src/ecmult_static_context.h \
+ src/ecdsa_impl.h src/ecdsa.h src/eckey_impl.h src/eckey.h \
+ src/modules/ecdh/main_impl.h include/secp256k1_ecdh.h \
+ include/secp256k1.h src/ecmult_const_impl.h \
+ src/modules/recovery/main_impl.h include/secp256k1_recovery.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+include/secp256k1.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+src/util.h:
+
+src/libsecp256k1-config.h:
+
+/usr/arm-linux-gnueabihf/include/stdlib.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdlib-bsearch.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdlib-float.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdlib.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wchar.h:
+
+/usr/arm-linux-gnueabihf/include/stdio.h:
+
+/usr/arm-linux-gnueabihf/include/bits/types.h:
+
+/usr/arm-linux-gnueabihf/include/bits/typesizes.h:
+
+/usr/arm-linux-gnueabihf/include/libio.h:
+
+/usr/arm-linux-gnueabihf/include/_G_config.h:
+
+/usr/arm-linux-gnueabihf/include/wchar.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdarg.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdio_lim.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sys_errlist.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdio.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdio2.h:
+
+src/num_impl.h:
+
+src/num.h:
+
+src/field_impl.h:
+
+src/field_10x26_impl.h:
+
+src/field.h:
+
+src/field_10x26.h:
+
+src/scalar_impl.h:
+
+src/group.h:
+
+src/scalar.h:
+
+src/scalar_8x32.h:
+
+src/scalar_8x32_impl.h:
+
+src/group_impl.h:
+
+src/ecmult_impl.h:
+
+/usr/arm-linux-gnueabihf/include/string.h:
+
+/usr/arm-linux-gnueabihf/include/bits/string.h:
+
+/usr/arm-linux-gnueabihf/include/bits/string2.h:
+
+/usr/arm-linux-gnueabihf/include/bits/string3.h:
+
+src/ecmult.h:
+
+src/ecmult_const_impl.h:
+
+src/ecmult_const.h:
+
+src/ecmult_gen_impl.h:
+
+src/ecmult_gen.h:
+
+src/hash_impl.h:
+
+src/hash.h:
+
+src/ecmult_static_context.h:
+
+src/ecdsa_impl.h:
+
+src/ecdsa.h:
+
+src/eckey_impl.h:
+
+src/eckey.h:
+
+src/modules/ecdh/main_impl.h:
+
+include/secp256k1_ecdh.h:
+
+include/secp256k1.h:
+
+src/ecmult_const_impl.h:
+
+src/modules/recovery/main_impl.h:
+
+include/secp256k1_recovery.h:
