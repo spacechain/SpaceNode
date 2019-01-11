@@ -1,0 +1,8 @@
+/libcextern/Release
+/libcextern/Debug
+/libsylixos/Release
+/libsylixos/Debug
+/openssl/Release
+/openssl/Debug
+/.settings
+/.rcsetting

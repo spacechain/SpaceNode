@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="org.eclipse.cdt.core.default.config.321174030">
+			<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.321174030" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+		<pathentry base-ref="libboost" include="C:/Users/cheyang@acoinfo.co/Desktop/Custom_SPC/code/spc_H3_qtum/sylixos-base_a9/libsylixos/SylixOS" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="C:/Users/cheyang@acoinfo.co/Desktop/Custom_SPC/code/spc_H3_qtum/sylixos-base_a9/libsylixos/SylixOS/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="C:/Users/cheyang@acoinfo.co/Desktop/Custom_SPC/code/spc_H3_qtum/sylixos-base_a9/libcextern/libcextern/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="D:/software/RealEvo3.8/compiler/arm-sylixos-toolchain/lib/gcc/arm-sylixos-eabi/4.9.3/include" kind="inc" path="" system="true"/>
+		<pathentry kind="mac" name="__arm__" path="" value=""/>
+		<pathentry base-ref="libboost" include="C:/Users/cheyang@acoinfo.co/Desktop/Custom_SPC/code/spc_H3_qtum/sylixos-base_a9/libsylixos/SylixOS/include/network" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="D:/software/RealEvo3.8/compiler/arm-sylixos-toolchain/arm-sylixos-eabi/include/c++/4.9.3/arm-sylixos-eabi" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="D:/software/RealEvo3.8/compiler/arm-sylixos-toolchain/arm-sylixos-eabi/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="D:/software/RealEvo3.8/compiler/arm-sylixos-toolchain/arm-sylixos-eabi/include/c++/4.9.3" kind="inc" path="" system="true"/>
+		<pathentry base-ref="libboost" include="src" kind="inc" path="" system="true"/>
+		<pathentry kind="mac" name="__GNUC__" path="" value="4"/>
+		<pathentry kind="mac" name="SYLIXOS" path="" value=""/>
+	</storageModule>
+</cproject>

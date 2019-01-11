@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<BaseSetting BeLite="false" Profile="standard" ProjectType="SylixOSAppProject" RealEvoVer="3.5.3 Ultimate"/>
+<OutputSetting>
+<OutputPath Name="Output" Path="Release:Debug" TreeNode="Output"/>
+<OutputPath Name="Debug" Path="Debug" TreeNode="Debug"/>
+<OutputPath Name="Release" Path="Release" TreeNode="Release"/>
+</OutputSetting>
+<BuildSetting CoustomCfgMakefile="false" NeedReBuild="false" NotScanSourceFile="false"/>
+<UploadPath>
+<PairItem key="$(WORKSPACE_rm_tool)\$(Output)\strip\rm_tool" value="/bin/rm_tool"/>
+</UploadPath>
+<DeviceSetting DevName="10.4.0.81" WorkDir="/apps/rm_tool"/>
+</SylixOSSetting>

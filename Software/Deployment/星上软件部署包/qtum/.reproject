@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<BaseSetting Profile="standard" ProjectType="SylixOSAppProject" RealEvoVer="3.8.1 Ultimate"/>
+<OutputSetting>
+<OutputPath Name="Output" Path="Release:Debug" TreeNode="Output"/>
+<OutputPath Name="Debug" Path="Debug" TreeNode="Debug"/>
+<OutputPath Name="Release" Path="Release" TreeNode="Release"/>
+</OutputSetting>
+<BuildSetting CoustomCfgMakefile="true" NeedReBuild="false" NotScanSourceFile="false"/>
+<UploadPath>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/qtumd" value="/apps/qtum/qtumd"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/qtum-cli" value="/apps/qtum/qtum-cli"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libbitcoin_common.so" value="/lib/libbitcoin_common.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libbitcoin_consensus.so" value="/lib/libbitcoin_consensus.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libbitcoin_crypto.so" value="/lib/libbitcoin_crypto.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libbitcoin_server.so" value="/lib/libbitcoin_server.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libbitcoin_util.so" value="/lib/libbitcoin_util.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libbitcoin_wallet.so" value="/lib/libbitcoin_wallet.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libcryptopp.so" value="/lib/libcryptopp.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libleveldb.so" value="/lib/libleveldb.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libleveldb_sse42.so" value="/lib/libleveldb_sse42.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libmemenv.so" value="/lib/libmemenv.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libsecp256k1.so" value="/lib/libsecp256k1.so"/>
+<PairItem key="$(WORKSPACE_qtum)/$(Output)/strip/libunivalue.so" value="/lib/libunivalue.so"/>
+</UploadPath>
+<DeviceSetting DevName="10.4.0.81" WorkDir="/apps/qtum"/>
+</SylixOSSetting>

@@ -1,0 +1,60 @@
+compat/libbitcoinconsensus_la-glibc_compat.lo: compat/glibc_compat.cpp \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h config/bitcoin-config.h \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/cstddef \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/c++config.h \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/os_defines.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/cpu_defines.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h \
+ /usr/arm-linux-gnueabihf/include/sys/select.h \
+ /usr/arm-linux-gnueabihf/include/bits/types.h \
+ /usr/arm-linux-gnueabihf/include/bits/typesizes.h \
+ /usr/arm-linux-gnueabihf/include/bits/select.h \
+ /usr/arm-linux-gnueabihf/include/bits/sigset.h \
+ /usr/arm-linux-gnueabihf/include/time.h \
+ /usr/arm-linux-gnueabihf/include/bits/time.h \
+ /usr/arm-linux-gnueabihf/include/bits/select2.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+config/bitcoin-config.h:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/cstddef:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/c++config.h:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/os_defines.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/cpu_defines.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+/usr/arm-linux-gnueabihf/include/sys/select.h:
+
+/usr/arm-linux-gnueabihf/include/bits/types.h:
+
+/usr/arm-linux-gnueabihf/include/bits/typesizes.h:
+
+/usr/arm-linux-gnueabihf/include/bits/select.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sigset.h:
+
+/usr/arm-linux-gnueabihf/include/time.h:
+
+/usr/arm-linux-gnueabihf/include/bits/time.h:
+
+/usr/arm-linux-gnueabihf/include/bits/select2.h:

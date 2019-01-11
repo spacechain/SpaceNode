@@ -1,0 +1,45 @@
+compat/libbitcoin_util_a-strnlen.o: compat/strnlen.cpp \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h config/bitcoin-config.h \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/cstring \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/c++config.h \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/os_defines.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/cpu_defines.h \
+ /usr/arm-linux-gnueabihf/include/string.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h \
+ /usr/arm-linux-gnueabihf/include/xlocale.h \
+ /usr/arm-linux-gnueabihf/include/bits/string3.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+config/bitcoin-config.h:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/cstring:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/c++config.h:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/os_defines.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/c++/4.8.4/arm-linux-gnueabihf/bits/cpu_defines.h:
+
+/usr/arm-linux-gnueabihf/include/string.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+/usr/arm-linux-gnueabihf/include/xlocale.h:
+
+/usr/arm-linux-gnueabihf/include/bits/string3.h:

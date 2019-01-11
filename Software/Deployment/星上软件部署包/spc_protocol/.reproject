@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<BaseSetting BeLite="false" Profile="standard" ProjectType="SylixOSAppProject" RealEvoVer="3.8.1 Ultimate"/>
+<OutputSetting>
+<OutputPath Name="Output" Path="Release:Debug" TreeNode="Output"/>
+<OutputPath Name="Debug" Path="Debug" TreeNode="Debug"/>
+<OutputPath Name="Release" Path="Release" TreeNode="Release"/>
+</OutputSetting>
+<BuildSetting CoustomCfgMakefile="true" NeedReBuild="false" NotScanSourceFile="false"/>
+<UploadPath>
+<PairItem key="$(WORKSPACE_spc_protocol)/$(Release)/strip/spc_master_multi_sig" value="/apps/spc_protocol/spc_master_multi_sig"/>
+<PairItem key="$(WORKSPACE_spc_protocol)/$(Release)/strip/spc_slave_multi_sig" value="/apps/spc_protocol/spc_slave_multi_sig"/>
+<PairItem key="$(WORKSPACE_spc_protocol)/$(Output)/strip/spc_protocol" value="/apps/spc_protocol/spc_protocol"/>
+</UploadPath>
+<DeviceSetting DevName="10.4.0.82" WorkDir="/apps/spc_protocol"/>
+</SylixOSSetting>
